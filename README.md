@@ -4,7 +4,7 @@ This is a web-based Movie Recommender App built using Streamlit. It uses content
 
 ## 🎥 Demo
 
-👉 Live App: [Insert your Streamlit app link here] 
+👉 Live App: https://movie-recommender-system-3mzxwibphl8tauuravu7kf.streamlit.app/
 
 ## 🛠️ Tech Stack
 
